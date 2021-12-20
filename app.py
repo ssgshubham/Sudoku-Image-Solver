@@ -271,11 +271,9 @@ st.text("3) We have also used Swig for creating Python bindings of C++ code for 
 
 st.subheader("Project By-")
 st.text("1) Shubham Sarthak Gupta : 19103171")
-st.text("2) Chirag Goyal          : 19103171")
-st.text("3) Ratnaksh Tyagi        : 19103171")
+st.text("2) Chirag Goyal          : 19103179")
+st.text("3) Ratnaksh Tyagi        : 19103172")
 
-st.write("You can find the code [here](https://github.com/ssgshubham/Sudoku-Image-Solver).")
-st.write("[Play Sudoku!](https://ssgshubham.github.io/Sudoku-WebApp/) right now.")
 
 images_list = ["image" + str(i) for i in range(1,8)]
 models = ["Convolutional Neural Networks", "XGBoost Algorithm", "Softmax Regression"]
